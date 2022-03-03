@@ -30,6 +30,9 @@ handleChange = (e) => {
     const filteredMonsters = monsters.filter(monster =>
       monster.name.toLowerCase().includes(searchField.toLowerCase())
       )
+
+      console.log(filteredMonsters,'filteredMonsters');
+
     return (
       <div className='App'> 
         <h1> Monsters Rolodex</h1>
