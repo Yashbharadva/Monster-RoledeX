@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yashbharadva/Monster-RoledeX/static/css/main.0e287591.css",
+    "main.js": "/Yashbharadva/Monster-RoledeX/static/js/main.0acd1cd5.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/Yashbharadva/Monster-RoledeX/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/Yashbharadva/Monster-RoledeX/index.html",
+    "main.0e287591.css.map": "/Yashbharadva/Monster-RoledeX/static/css/main.0e287591.css.map",
+    "main.0acd1cd5.js.map": "/Yashbharadva/Monster-RoledeX/static/js/main.0acd1cd5.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/Yashbharadva/Monster-RoledeX/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e287591.css",
+    "static/js/main.0acd1cd5.js"
+  ]
+}
